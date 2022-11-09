@@ -1,4 +1,4 @@
-<h1  align="center"> Projeto Back-end Filmes Star Wars </h1></p>
+<h1  align="center"> Projeto Back-end de acesso a API de Filmes Star Wars </h1></p>
 <p> <strong>   Padrão de Projeto:</strong> Data Transport Object (DTO) </p>
 <p>  Built With:
 <br/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">  
